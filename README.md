@@ -1,4 +1,5 @@
 🏥 Smart Patient Readmission & Care Intervention Platform
+
 📌 Project Overview
 This project was developed for Kaiser Permanente to address the growing challenge of avoidable 30-day hospital readmissions among chronic disease patients.
 
@@ -28,6 +29,7 @@ What savings opportunities exist?
 AI Insights
 What can be learned from discharge notes?
 How can AI assist care managers?
+
 📂 Data Sources
 Patient Master
 Patient ID
@@ -75,6 +77,7 @@ Readmission Rate by Region
 Average Length of Stay
 High Utilizer Ranking
 Admission Trend Analysis
+
 📊 Phase 2: Statistical Analysis
 Performed:
 
@@ -92,6 +95,7 @@ Risk Analysis
 Outlier Detection
 Correlation Analysis
 Confidence Intervals
+
 📈 Phase 3: Exploratory Data Analysis
 Univariate Analysis
 Age Distribution
@@ -105,6 +109,7 @@ Advanced Analysis
 Correlation Heatmap
 Boxplots
 Scatterplots
+
 ⚙️ Phase 4: Feature Engineering
 Developed custom healthcare features:
 
@@ -115,6 +120,7 @@ Cost Per Day
 Medication Burden Score
 ER Dependency Ratio
 Readmission History Flag
+
 🤖 Phase 5: Predictive Modeling
 Models Developed
 Logistic Regression
@@ -130,6 +136,7 @@ ROC-AUC
 Validation
 Train-Test Split
 Cross Validation
+
 👥 Phase 6: Patient Segmentation
 Techniques Used
 K-Means Clustering
@@ -140,12 +147,14 @@ Healthy Recovery
 Moderate Risk
 Chronic High Risk
 Frequent Utilizer
+
 🧠 Phase 7: Deep Learning
 Developed a Feedforward Neural Network to predict readmission risk.
 
 Comparison Performed Against
 Logistic Regression
 Random Forest
+
 📝 Phase 8: NLP Analysis
 Discharge notes were analyzed using:
 
@@ -158,6 +167,7 @@ Insights Generated
 Common Readmission Themes
 Keyword Extraction
 Topic Identification
+
 🤖 Phase 9: Care Management AI Assistant (RAG)
 Objective
 Provide healthcare staff with instant access to clinical guidelines, discharge policies, and care protocols.
@@ -218,6 +228,7 @@ Recall
 Grounding Score
 Retrieval Time
 Generation Time
+
 📊 Phase 10: Power BI Dashboard
 Dashboard Pages
 Page 1 – Patient Overview
